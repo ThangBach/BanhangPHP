@@ -1,0 +1,205 @@
+principle : khoi dau
+
+critical, discuss : binh luan, phan xet
+
+recognizing: nhan biet
+
+observation: su chu y, dom ngo
+
+brainstorming: dong nao
+
+retreived: lay ra
+
+elaborated: tu duong, lay ra
+
+purposeful : co ke hoach, co to chuc
+
+involes: lien quan den
+
+appropriate: thich hop, rieng biet
+
+relevant: thich hop, xung dang
+
+situation: vi tri, dia the
+
+stimulating: kich thich
+
+ability: kha nang, tu cach
+
+perform: tu cach, nghia vu, nhiem vu
+
+affected: lam bo, gia bo
+
+affective: thuoc ve tinh cam
+
+emotion: cam dong, xuc dong
+
+cognitive: nhan thuc
+
+analyze: phan tich
+
+solve: giai quyet
+
+decision: su giai quyet
+
+psychomotor: tinh thanh the thao  
+
+appreciate, evalue: danh gia
+
+fear: noi so
+
+worship: ton sung, than tuong
+
+reflective: nghi ngoi, suy nghi
+
+concrete: duc ket, xay dung
+
+tip, advice: loi khuyen
+
+research: tim toi, nghien cuu
+
+presented: bay to, trinh bay, gioi thieu
+
+presentation: trinh bay
+
+delivery: phan bo, giao hang
+
+practice: thuc hanh
+
+rehearing: thuat lai, ke lai
+
+relate: lien ket, thuat lai, ke lai
+
+further: xa hoi
+
+cementing: ren luyen
+
+solidify: lam dong dac, ket duc
+
+brain: nao
+
+previous: voi vang, gap rut
+
+ultilize: lam viec gi do truoc
+
+associate: lien ket, ket hop
+
+period: chu ky, thoi gian
+
+acctualy: hien nay, hien tai
+
+improve: cai thien, phat trien
+
+attention: su chu y
+
+essential: can thiet, quan trong
+
+phrases: ngu phap, cum tu
+
+habit: thoi quen, tap tinh
+
+forcus, concentrate: tap trung, tap hop
+
+do not daydream: dung nghi vo van
+
+what is going on: dieu gi dang xay ra
+
+ensure: ben vung, vung chac
+
+effect: hieu qua
+
+effective : mot cach hieu qua
+
+effectiveness: khong co hieu qua
+
+areas: vung, be mat
+
+expert: chuyen gia
+
+colleagues: nhung dong nghiep
+
+resource: nguon nang luc
+
+keep up to date: cap nhat thuong xuyen
+
+assignment: cong viec duoc giao, su trinh bay
+
+self- motivation: tu thuc day ban than
+
+strategy: chien luoc
+
+necessary: can thiet
+
+handle pressure: xu ly ap luc
+
+presure: ap luc
+
+stress: cang thang
+
+in order to: de ma
+
+persistence: su co chap, su ben bi
+
+accurate: chinh xac
+
+defensible: phong thu
+
+obvious: ro mang, minh bach
+
+specifice: ro rang,, chi tiet
+
+mental: tinh than
+
+aimless: vo vong, khong co hy vong
+
+aware: nhin nhan, doan truoc
+
+desire: cau mong
+
+avoid: tranh xa, tranh khoi
+
+responsibility: cos trach nhiem
+
+timeframe: khung thoi gian
+
+priority: uu tien
+
+reserve: than trong, giu gin, dat truoc
+
+accommodations: phong cho thue
+
+suspend: dinh chi, lam gian doan, ngung lai
+
+hire : muon, thue
+
+destination: diem den, cho nhan
+
+ahead of time: truoc thoi hAN
+
+define: dinh nghia
+
+trick: lua dao, lua gat
+
+instead of: thay vi
+
+overwhelme: qua tai, ap dao
+
+leak: su ro ri
+
+appoitment: su bo nhiem, giay moi
+
+ensure: ben vung
+
+sufficient: sung tuc, day du, ben vung
+
+quality: chat luong
+
+detect: kham pha, tim thay
+
+maintainability: bao tri
+
+enforce: bat buoc, thi hanh
+
+speard: tran ra, banh rong
+
+typically: dien hinh 
